@@ -6,7 +6,7 @@ this is for expermental and educational uses only!!!
 DO NOT USE THIS SCRIPT FOR ANY MALICIOUS ACTIVITY, THAT CAN HARM OTHERS
 
 # updating
-I will update this script from time t0 time if nescessary for it to work, but most likely i will not add new features to it.
+I will update this script from time to time if nescessary for it to work, but most likely i will not add new features to it.
 
 # OS support
 Windows
