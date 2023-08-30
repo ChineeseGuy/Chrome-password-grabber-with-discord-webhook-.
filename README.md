@@ -10,9 +10,9 @@ I will update this script from time to time if nescessary for it to work, but mo
 
 # OS support
 Windows
+
 # Usage
-replace your webhook here with your webhook in main.py
-python main.py
+replace your webhook here with your webhook in main.py and run it (make sure you have_ in your dictionary)
 
 # Output
 Sends a .cvs file to a discord server through a webhook
